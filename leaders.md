@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
-* [Leader Name](mailto://leader.email@owasp.org)
+* [Alessandro Bruni](mailto://alessandro.bruni@owasp.org)
+* [Klaus Agnoletti](mailto://klaus@agnoletti.dk)

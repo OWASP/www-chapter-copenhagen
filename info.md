@@ -1,17 +1,12 @@
-### copenhagen Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
+<!-- ### Information -->
+<!-- * [Flagship Project](#) -->
+<!-- * [Tool Project](#) -->
+<!-- * [Version 2.8.0](#) -->
+<!-- * [Builder](#) -->
+<!-- * [Breaker](#) -->
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/)
 
 ### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
-
+* [repo](https://github.com/hoheinzollern/OWASP-Local-Meetup)
