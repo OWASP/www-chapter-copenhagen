@@ -15,6 +15,24 @@ We (re)started from the OWASP-Denmark local chapter with an initial event on Oct
 ## Events
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### January 30th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/267302307/)]
+
+#### Clickshare:
+Dmitry Janushkevich from F-Secure will talk about major vulnerabilities found in ClickShare. More info on https://labs.f-secure.com/advisories/multiple-vulnerabilities-in-barco-clickshare/
+
+#### Cable haunt:
+Researchers (mostly) from Lyrebirds found critical vulnerabilites found in various cable modems. They will talk about what they found and a bit on how. More info at https://cablehaunt.com/.
+Prior to the meeting it's possible to join #chapters-copenhagen in the OWASP slack (invite link below) and ask questions and suggest topics to cover. So please do so.
+
+#### DMARC (and friends):
+Dennis Kjær Jensen (or just SiGNOUT) will tell you about DMARC, SPF and all the other email extending security features that you simply have to have enabled on your domain to not look to much like a fool now that it's 2020 and those vulnerabilities have been around forever now. After that Kevin Kruse will tell you what he has done to secure his own email domain (via Proton Mail) and hopefully inspire you to do the same.
+
+#### 36c3 wrap-up:
+Denis Smajlović will tell us about his (mis)adventures on his recent trip to Leipzig and 36c3.
+
+#### Backdoors & Breaches:
+Klaus Agnoletti will introduce you to 'Backdoors & Breaches', a card game designed to train the incident response process. After pizza I'll set up a few gaming sessions. If you got a game at BSides København already, please bring it along with a 20-sided dice. If you don't have it, fear not, I have a few games left that I'll give away.
+
 ### November 25th, 2019 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/266380643/)]
 
 #### Let’s Encrypt: An Automated Certificate Authority to Encrypt the Entire Web
