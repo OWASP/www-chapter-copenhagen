@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP copenhagen
+title: OWASP Copenhagen
 tags: example-tag
 level: 4
 
