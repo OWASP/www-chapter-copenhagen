@@ -15,6 +15,8 @@ We (re)started from the OWASP-Denmark local chapter with an initial event on Oct
 ## Events
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### April 2nd, 2020 [TBA]
+
 ### January 30th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/267302307/)]
 
 #### Clickshare [[slides](https://drive.google.com/open?id=1fcwwGMNdOAk_H3bDNgqEtJsDuqK7IXCk)]
