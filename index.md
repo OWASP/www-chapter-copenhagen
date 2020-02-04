@@ -17,17 +17,17 @@ If interested in giving a talk, please send a message to [Alessandro Bruni](mail
 
 ### January 30th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/267302307/)]
 
-#### Clickshare:
+#### Clickshare [[slides](https://drive.google.com/open?id=1fcwwGMNdOAk_H3bDNgqEtJsDuqK7IXCk)]
 Dmitry Janushkevich from F-Secure will talk about major vulnerabilities found in ClickShare. More info on https://labs.f-secure.com/advisories/multiple-vulnerabilities-in-barco-clickshare/
 
-#### Cable haunt:
+#### Cable haunt: [[slides](https://drive.google.com/open?id=1lRi4NLDpwHRFaqJ-NAi2oHTVoIB6Zaf0)]
 Researchers (mostly) from Lyrebirds found critical vulnerabilites found in various cable modems. They will talk about what they found and a bit on how. More info at https://cablehaunt.com/.
 Prior to the meeting it's possible to join #chapters-copenhagen in the OWASP slack (invite link below) and ask questions and suggest topics to cover. So please do so.
 
-#### DMARC (and friends):
+#### DMARC (and friends): [[slides](https://drive.google.com/open?id=1XBz_OVgkzOZzykwWttK2VcuT1MeCVGpy)]
 Dennis Kjær Jensen (or just SiGNOUT) will tell you about DMARC, SPF and all the other email extending security features that you simply have to have enabled on your domain to not look to much like a fool now that it's 2020 and those vulnerabilities have been around forever now. After that Kevin Kruse will tell you what he has done to secure his own email domain (via Proton Mail) and hopefully inspire you to do the same.
 
-#### 36c3 wrap-up:
+#### 36c3 wrap-up: [[slides](https://drive.google.com/open?id=1nxWEH_FLk-2PUnwn5QHllgkinLYaoc05)]
 Denis Smajlović will tell us about his (mis)adventures on his recent trip to Leipzig and 36c3.
 
 #### Backdoors & Breaches:
@@ -71,12 +71,12 @@ There are many different skills and techniques while approaching a human target 
 *Abstract:* Instead of a usual talk, this will be an open discussion. He will share several stories of his travels & exploits (focused around Social Engineering where Jayson has mnay years of experience) but mostly will be there to answer questions about hacking, blue team, red team and DEF CON Groups! So come with questions and expect a few answers and a lot of great hugs!
 
 ### March 28th, 2019 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/258987408/)]
-####  XSSER: From XSS to RCE 3.0
+####  XSSER: From XSS to RCE 3.0 [[slides](https://drive.google.com/open?id=1TPKkvLBot-h9dmk_wHupRj7LTNFKHUR2)]
 *Abstract:* This presentation demonstrates how an attacker can utilise XSS to execute arbitrary code on the web server when an administrative user inadvertently triggers a hidden XSS payload. Custom tools and payloads integrated with Metasploit's Meterpreter in a highly automated approach will be demonstrated live, including post-exploitation scenarios and interesting data that can be obtained from compromised web applications. This version includes more payloads for common web apps and various other improvements too!"  
 *Author:* Hans-Michael Varbaek / TDC Group
 
 ### October 25th, 2018 [[meetup](https://www.eventbrite.com/e/owasp-local-meetup-tickets-50365223740#)]
-####  An ice-cold Boot to break BitLocker
+####  An ice-cold Boot to break BitLocker [[slides](https://drive.google.com/open?id=1VDfS-wNM7ywDW1NwMWmOCzcAd1yiVNCG)]
 *Authors:* Olle Segerdahl & Pasi Saarinen / F-Secure
 
 ## Sponsors
