@@ -15,7 +15,18 @@ We (re)started from the OWASP-Denmark local chapter with an initial event on Oct
 ## Events
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
-### April 2nd, 2020 [TBA]
+### April 16th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/268476837/)]
+
+#### Claus Vesthammer
+Ethics and philosophy, politics and procedures. Experiences with the framework of responsible disclosure, positive and negative from the real world. Common problems regarding detection of vulnerabilities vs. hacking.
+
+#### Magnus K Stubman
+Magnus will then provide a quick introduction to finding file permissions and privileged escalation vulnerabilities (DLL hijacking, etc.) in Windows with procmon, accessenum, ghidra and IOninja. And review related selected CVEs, our own and others.
+
+#### Sticks & Stones, Breaking Bones, by Lucas Lundgren
+Experiences in pentesting medical devices, including DICOM and PACS machines. References here:
+https://www.linkedin.com/pulse/sticks-stones-breaking-bones-lucas-lundgren/
+https://techcrunch.com/2020/01/10/medical-images-exposed-pacs/
 
 ### January 30th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/267302307/)]
 
