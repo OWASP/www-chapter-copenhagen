@@ -15,6 +15,11 @@ We (re)started from the OWASP-Denmark local chapter with an initial event on Oct
 ## Events
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### May 5th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/270213570/)]
+
+### “Going Phishin’ with GoPhish” by Alethe Denis and Patrick Laverty
+Want to learn how to put together a phishing campaign? Great, let’s do it. We will use the free and open-source tool GoPhish to launch campaigns. We’ll show how to install, set up GoPhish, create each of the necessary pieces and launch. We’ll also talk about pretexts and how “mean” should we be, and mix in some stories of phishing successes and failures.
+
 ### April 16th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/268476837/)]
 
 #### Claus Vesthammer
