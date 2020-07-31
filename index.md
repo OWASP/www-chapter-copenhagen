@@ -6,6 +6,9 @@ tags: example-tag
 level: 4
 
 region: Europe
+meetup-group: OWASP-Copenhagen-Chapter
+country: Denmark
+postal-code: 
 
 ---
 The Copenhagen local chapter organizes quarterly events to promote OWASP and information security in general.
