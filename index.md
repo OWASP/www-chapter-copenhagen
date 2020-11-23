@@ -15,9 +15,15 @@ We (re)started from the OWASP-Denmark local chapter with an initial event on Oct
 ## Events
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### November 18th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/274191483/)]
+
+#### A Night of Fraud and Deception
+This time we will be focusing on fraud - primarily past, present and future of fraud and related crime in Denmark.
+The event will feature talks from Sune Gabelgård, Fraud Crusader at https://www.mobilepay.dk/ and Ketil Clorius, Head of Global Fraud Management at https://danskebank.dk/. We'll talk about juicy, crazy mindblowing case studies and methods used by threat actors. History and future will also be touched upon.
+
 ### May 5th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/270213570/)]
 
-### “Going Phishin’ with GoPhish” by Alethe Denis and Patrick Laverty
+#### “Going Phishin’ with GoPhish” by Alethe Denis and Patrick Laverty
 Want to learn how to put together a phishing campaign? Great, let’s do it. We will use the free and open-source tool GoPhish to launch campaigns. We’ll show how to install, set up GoPhish, create each of the necessary pieces and launch. We’ll also talk about pretexts and how “mean” should we be, and mix in some stories of phishing successes and failures.
 
 ### April 16th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/268476837/)]
