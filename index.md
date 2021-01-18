@@ -18,6 +18,46 @@ We (re)started from the OWASP-Denmark local chapter with an initial event on Oct
 ## Events
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+
+### January 21st, 2021 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/275404398/)]
+
+As we move into this mid- and post-pandemic world with remote and in-office work blending, what must organizations consider, in order to sustain data and application security and privacy while still considering an efficient working- and user experience? How does remote work change the security stack mix? And what’s still missing?
+
+We will also be diving into how innovation in cyber became a must and how that can and will support companies and users on a daily basis.
+
+YOUR PANELISTS ARE
+
+Lone Juul Dransfeldt Christensen, Senior Security Architect at Bang & Olufsen. Formely in NNIT and the Danish Police.
+https://www.linkedin.com/in/ldransfeldt/
+
+Martin Clausen, Chief Security Architect, Head of Architecture, Research and Development at Saxo Bank. Former Head of Cyber Innovation Labs at Danske Bank.
+https://www.linkedin.com/in/martin-clausen/
+
+Luke Herbert-Andersen, PhD in Computer Science.
+https://www.linkedin.com/in/lukeherbert/
+
+Oksana Kulyk, Assistant Professor, Center for Information Security and Trust, IT-Universtiy of Copenhagen. Co-PI of the ASCD project (Assessment on the Status of CyberSecurity in Denmark).
+https://twitter.com/okskulyk/
+
+
+### December 10th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/274829683/)]
+
+#### Tim Sloth Jørgensen
+Program chief for cybersecurity in the Danish Industry Foundation, Chief Strategy Officer of Defence and Security at Terma A/S, advisor to the Danish Ministry og Defence, professor at Copenhagen Business School, former Chief of the Danish Defence.
+https://www.linkedin.com/in/tim-sloth-jorgensen-3b199a23/
+
+Tim will share his insights based on several years of first-hand experience, and will tell us about what they are looking for when investing in new cybersecurity projects - What is he anticipating? Is he hopeful or concerned for the future?
+
+#### Rasmus L. Fruergaard-Pedersen, Security Software Engineer at Kamstrup
+(https://www.linkedin.com/in/rfruergaard/)
+
+Rasmus enables the business to use security correctly.
+Innovation in software, sensors and communications is what the company Kamstrup is associated with, but how do they ensure a sufficient security stance across a business spanning that wide?
+Rasmus will talk briefly about technical security champions, business security principles and how to ensure a common understanding of what security is acceptable.
+
+What will you learn from this talk?
+Translating technical security to business risk; Making security a competitive parameter; Questions to ask when wanting to secure a product in a complex business environment.
+
 ### November 18th, 2020 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/274191483/)]
 
 #### A Night of Fraud and Deception
