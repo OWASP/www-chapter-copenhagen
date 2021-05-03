@@ -19,6 +19,62 @@ We (re)started from the OWASP-Denmark local chapter with an initial event on Oct
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
 
+### Thursday, April 29, 2021 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277670961/)]
+
+POST-QUANTUM DIGITAL SIGNATURES
+
+Sahana Sridhar:
+https://www.linkedin.com/in/sahsridh/
+
+Former IBM Test Specialist and Master of Science from Norwegian University of Science and Technology (NTNU). Sahana will enlighten you on the findings of her master thesis on post-quantum digital signatures based on identification schemes.
+
+THE FAILURES OF NEMID AND THE THREAT OF QUANTUM COMPUTERS
+
+Lars Embøll Nielsen:
+https://www.linkedin.com/in/qkd/
+
+Lars will take you on a journey through the failures of NemID, the legal landscape of digital signatures in EU and why Quantum Computers can be a threat to the way we currently keep digital signatures secure.
+
+AS ALWAYS....
+... you will have the opportunity to ask questions for the participants
+
+### Thursday, March 25, 2021 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/276419652/)]
+
+DISCOUNT PHISH BURN BETTER and USER MODE API HOOKS AND BYPASSES
+
+Note: THIS IS AN ONLINE EVENT! Link to stream will be released here prior to the event.
+
+THE SPEAKER
+
+Magnus Stubman, Security Advisor at Improsec and former security consultant at F-Secure and Zacco.
+https://www.linkedin.com/in/magnusstubman/
+
+Magnus started his career as a software developer and later turned his attention to Cyber Security, specifically attack and penetration testing, both digital and physical. Today Magnus specialize in Red Teaming.
+
+Magnus will do something we haven't facilited in OWASP CPH before - He will do a double-presentation - to take you on a technical security ride.. Keep reading to learn more...
+
+### Thursday, February 18, 2021 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/275689509/)]
+
+SIEM and Elasticsearch for absolute beginners
+
+Curious about SIEM and/or Elastic? You heard about it, but don't really know what it is? You know what it is, but curious about what to do next? This is the talk for you!
+We will have a few subjects for you:
+- SIEM as a concept
+- Elastic as platform and it's usability
+- Introduction to Elastic SIEM
+- Introduction to TheHive - a security incident response platform that can help you get the most out of your Elastic platform.
+
+Elastic is available for free - so is TheHive. So everybody can be on board here.
+
+### Tuesday, February 16, 2021 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/276167153/)]
+
+Mød Alexander Krog, en af Lyrebirds ethical hackers (OWASP youth event)
+
+Disclaimer: the event will be in Danish, targeted at students 15-25 years old. Everyone is welcome to participate.
+
+Har du altid undret dig over hvordan livet som professionel hacker er? Måske vil du gerne være én? Mød Alexander Krog, som sammen med sit hold af hackere ”Lyrebirds” opdagede “Cablehaunt”, en kritisk sårbarhed som var i stand til at give hackere adgang til modems rundt omkring i hele verden, hvilket potentielt ville have katastrofale konsekvenser. Alex vil fortælle sin historie, hvordan han endte op som en der professionelt finder IT-sikkerhedsmæssigfe sårbarheder, hvordan de fandt det nævnte sikkerhedshul. Alex deler sit indblik og erfaring indenfor IT-sikkerheds verdenen. Efterfølgende stiller Alex op til alle dine spørgsmål på YouTube.
+
+
 ### January 21st, 2021 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/275404398/)]
 
 As we move into this mid- and post-pandemic world with remote and in-office work blending, what must organizations consider, in order to sustain data and application security and privacy while still considering an efficient working- and user experience? How does remote work change the security stack mix? And what’s still missing?
