@@ -16,7 +16,88 @@ The Copenhagen local chapter organizes quarterly events to promote OWASP and inf
 We (re)started from the OWASP-Denmark local chapter with an initial event on October 25th, 2018.
 
 ## Events
+In this page we keep track of all past events that we organized, and is rarely updated. Go to [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/)] to check the latest events and subscribe to get the latest updates from our chapter.
+
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
+
+### Tuesday, April 26, 2022 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/285064536/)]
+
+#### Email spoofing via marketing platforms, By Martin Sohn Christensen, Security Advisor at Improsec.
+
+Many mechanisms exist to prevent email spoofing, such as SPF, DKIM, and DMARC, but what if these were not sufficient even when configured correctly? Martin will present known anti-spoofing mechanisms and share his research on vulnerabilities in marketing platforms that can lead to effective email spoofing for threat actors and red teams.
+
+#### Kalmarunionen in a world of CTF’s, By Morten Eskildsen, Kalmarunionen
+
+Kalmarunionen is one of the top teams when talking cybersecurity and Capture The Flag (CTF) competitions in the whole world. So in this talk we will have a deep dive into what a CTF actually is and it’s applicability to the real world. The focus will be to look at it from the viewpoint of Kalmarunionen, bringing you stories and hard-earned learnings from some of the many competitions we have been a part of. We will discuss overall tactics and shortcomings before finally diving into how it can be applied in the real world.
+
+### Thursday, February 17, 2022 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/283634757/)]
+
+#### Magnus Stubman, Senior Red Team Consultant at Mandiant and former security consultant at Improsec and F-Secure.
+
+Magnus started his career as a software developer and later turned his attention to Cyber Security, specifically attack and penetration testing, both digital and physical. Today Magnus specialize in Red Teaming.
+
+The 'Initial Access' phase is part of every intrusion, regardless if it's a ransomware crew, nation state threat actor, or Red Team behind the attack. In Magnus' talk, he will be deep diving into this specific phase, and deliver a case study of a particular malware payload.
+
+#### Linus Kvarnhammar, a cyber security professional and hacker for over 10 years. 
+
+Linus will share some juicy details from the Swedish TV series “Hackad”. He’ll discuss how easy (or not) it is to hack private people, social media personalities and companies.
+
+After the two talks there will be time for us to hang out and catch-up after two years captivity. Please be there at 17.00 / 5 PM. If it is your first time at ITU, you can just follow the signs that will be put up.
+
+### Tuesday, October 5, 2021 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/280774265/)]
+
+#### Dimitry: Did you just assume your product is secure?
+People tend to assume things. I know I do. It's perfectly normal, it's how our brains evolved to work. Join me in exploring the role of assumptions in our everyday life and how that impacts the security of products we build. Or did I just assume that they do?.. Hmm.
+
+#### Jonas: ImproHound Workshop: Protect your Domain Admins with tiering
+It is not viable for system administrators and defenders in a large Active Directory (AD) environment to ensure all AD objects have only the exact permissions they need. It is too big of a task, why many organizations are vulnerable to AD attacks due to too loose or wrong permissions. At the same time, credential theft may lead to privileges AD users having their password stolen when they login to compromised computers. These vulnerabilities are chainable, why you in many AD environments can escalate your rights to Domain Admin no matter what computer or user you have.
+
+### Thursday, July 1, 2021 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/278836329/)]
+
+Scale Security by Embracing Secure Defaults and Best-practices for DevSecOps
+
+####  Adam Berman : Scale Security by Embracing Secure Defaults
+
+We’re in the middle of a significant shift in how security teams operate and prioritize their limited budget and person-time. Historically, as an industry, we’ve focused on building tools to identify vulnerabilities. While we’ve built impressive tools, these approaches have failed to address the challenges of modern engineering teams. Specifically, these tools often are too slow, require a prohibitive amount of security engineer time and domain expertise to tune, overwhelm users with false positives, and most importantly, do not ultimately raise a company’s security bar. But there’s another way.
+
+When done correctly, combining secure defaults and lightweight checks that enforce invariants (properties that must always hold), organizations can solve classes of vulnerabilities by construction, preventing bug whack-a-mole. In this talk, we’ll present a practical step-by-step methodology for:
+
+-    Choosing what to focus your AppSec resources on
+-    How to combine secure defaults + lightweight invariant enforcement to eradicate entire vulnerability classes
+-    How to integrate continuous code scanning into your CI/CD processes in a way that’s fast, high signal, and low friction for developers
+-    How to use an open source, lightweight security linting tool to find bugs and anti-patterns specific to your company
+
+#### Martin Clausen : Best-practices for DevSecOps
+
+The presentation will show best-practices for DevSecOps (i.e. security part) and includes a case study about supply chain controls related to the Solarwinds incident.
+
+### Thursday, May 20, 2021 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/277996588/)]
+
+#### Per Thorsheim: "How I hacked the largest bank in Norway using a 1-page paper form"
+
+We are so lucky that Per has chosen to premier his latest talk for us here at OWASP Copenhagen. So come join us for this. Per is a fantastic storyteller :-)
+
+Back in 2019-2020 banks were running a campaign saying you should never share your BankID with anyone. Never give your OTP or password to anyone. Use a “power of attorney” (Danish: Fuldmagt) to give another person access to your bank account instead, to act on your behalf if needed. So Per Thorsheim got curious and started to investigate with a few friends.
+This is the story on how they found a way to gain access to probably any personal account at the largest bank in Norway, using a 1-page paper form from the bank itself.
+
+This is not a technical talk, but a talk about UX, design & process flaws, and responsible disclosure.
+
+Could this be possible with your bank?
+
+#### Stu: Why You Should Build a Community!
+Stu discusses why community is important for fostering collaboration, forming important connections, mentoring, and the great things that can happen from this.
+
+Stu shares his experience of building an infosec community The Many Hats Club, the highs and lows, but ultimately why this is something we should all strive to do. The talk will cover the following:
+
+-    Why communities are vital in infosec
+-    How to start out
+-    Platforms
+-    Pitfalls and things to avoid (from my many mistakes)
+-    Mentoring
+-    Key achievements - 2 x cons, CTF's, Podcasts, community projects, research, responsible disclosures etc.
+-    Mods/Admins, COC etc things you cannot live without.
+-    Why you should all build a community right now!
+-    Q&A
 
 
 ### Thursday, April 29, 2021 [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/events/277670961/)]
