@@ -20,6 +20,36 @@ In this page we keep track of all past events that we organized, and is rarely u
 
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### Thursday, September 21, 2023 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/296032478/)]
+
+A night of Blackteaming, Supply Chain Attacks and DEFCON CTF
+
+#### Brian Harris: War Stories in Physical Penetration Testing
+This is going to be a talk about the how the world continues to drive full speed ahead on cyber security, but when it comes to physical security we are often around 10-20 years behind. I will show some war stories, techniques and the like to highlight just how vulnerable even high security locations are when it comes to physical penetration testing and that if you have no physical security, you have no cyber security
+
+Brian Harris has a long career of phyiscal pen testing (aka blackteaming) behind him. He can truly do some amazing stuff that can make you stop and wonder why we even bother having locks in the first place, so obviously you don't want to miss this!
+
+#### Mikkel Rømer: Infiltrating modern companies using Supply Chain Attacks
+Case: Visual Studio Code
+Within this session we will be deep diving into Supply Chain attacks. Supply chain attacks is a growing phenomenon, which allows the adversary to infiltrate widely whilst gaining the trust of legitimate software brands. This session will be technical. We will be designing and implementing techniques throughout the presentation until a final malware is ready for deployment. With a fully custom build malware, targeting the modern text- and code editing application Visual Studio Code, we will investigate its potential in terms of detection within top class endpoint detect and response software such as CrowdStrike Falcon and Microsoft Defender for Endpoint. We will compare the results with similar execution done via the notorious adversary framework Cobalt Strike. Brace yourself for a thrilling journey through the shadows of the digital realm, where adversaries roam undetected.
+
+#### Adam Blatchley Hansen and William Ben Embarek: How to get 6th place at DEFCON CTF!
+Every year the legendary hacker convention DEFCON hosts one of the oldest and most competitive cybersecurity CTF competitions in the world. This year, Kalmarunionen joined forces with teams from around the nordics as NORSECODE, and travelled to the finals in Las Vegas, where they took home a very impressive 6th place overall. In this talk Adam and William will share the story of the teams road to qualifying for, and competing at the DEFCON CTF finals. Introducing the world of "CTF" hacking competitions from the perspective of a top competitive team, and giving an inside look at what it takes to compete in international hacking competitions at the very highest level. From organisational strategies to interesting CTF challenges to internal team tooling, they'll go over what it took for Norsecode to outperform many much larger and more experienced teams, as well as some of the more unexpected challenges they encountered along the way!
+Bio: Adam is a PhD student studying Cryptography at Aarhus university, as well Head Coach of Cyberlandsholdet and the current captain of Kalmarunionen and Norsecode. William is a Pentester at TDC NET, as well as being a longtime CTF player with Kalmarunionen he also handled onsite infrastructure for Norsecode during DEFCON finals in Vegas.
+
+### Wednesday, November 9, 2022 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/289468129/)]
+
+A night of collaboration, secure coding and -implementation
+
+#### Klaus Agnoletti
+Klaus will talk about how CrowdSec was able to enable the entire infosec community to work together by detecting attempts to exploit a critical 0day, reporting them centrally, thereby enabling anyone to protect themselves. CrowdSec is FOSS, collaborative threat intelligence and threat mitigation. More info at https://crowdsec.net
+
+#### Sébastien Gondron
+Manual code inspection is a very effective measure in detecting and preventing vulnerabilities and weaknesses. However, navigating applications that can span millions of lines of code can be an arduous task. Sébastien will share his experience and show how to make the best of static analysis tools to facilitate and enhance the manual inspection.
+
+#### Linus Lagerhjelm
+You have designed your application with security in mind but how do you make sure that the implementation is actually following these principles? Any sort of software system, even a simple one, usually consists of a lot of moving parts in a lot of different layers and getting everything correct can sometimes feel overwhelming. In this presentation, Linus will present a 'checklist' with the most important security controlls to apply in each layer of the application, from the database to the user's client. When security is applied in every layer of the application, the impact of a vulnerability will be much smaller.
+
 ### Tuesday, April 26, 2022 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/285064536/)]
 
 #### Email spoofing via marketing platforms, By Martin Sohn Christensen, Security Advisor at Improsec.
