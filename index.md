@@ -20,6 +20,76 @@ In this page we keep track of all past events that we organized, and is rarely u
 
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### Tuesday, April 9, 2024 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/300007686/)]
+
+#### OSINTer
+**Synopsis**
+OSINTer is a new, digital platform tailored towards breezing through the complexities involved in extracting strategic cyber threat intelligence from news about cyber threats. Designed to streamline the traditionally laborious process of manually tracing and compiling data, OSINTer offers an automated, efficient means of identification, collection, and tracking of the ever moving cyberthreat landscape. At this workshop we will delve into the platform's journey from a spark of an idea to a robust platform, currently serving 30.000 monthly users, and go over how you can integrate it into your daily work, helping you stay on top of the constant inflow of information.
+
+**Speaker bio**
+Bertram Madsen and David Clayton are co-conspirators in the realm of cybersecurity, with each specializing in different facets of the industry to combat digital threats effectively. Bertram, a proficient full-stack software developer, emphasizes open-source development and community collaboration, manifesting in the creation of a range of cybersecurity solutions. Most notably, he's responsible for the development of OSINTer, a digital platform designed to ease collection of strategic cyber threat intelligence (CTI), and in collaboration with David, they are attempting to rethink how we do CTI. David is an established leader within Denmark's cybersecurity landscape, with a breadth of experience spanning various critical infrastructure sectors, financial security and strategic leadership roles. He's renowned for championing the SagaLabs concept, gaining TF-CSIRT certification for his team, and providing exceptional insights as one of only two official SIM3 auditors in Denmark.
+
+#### Tracking down the killer
+**Synopsis**
+In the mid 1990’s Rasmus Kierkegaard Kristiansen – suspected of killing and dismembering a business partner I Portugal – managed to escape and hide from authorities. After a longer period of intense investigation, the trail was considered cold.
+In 2018, 25 years after the murder, the unsolved case was still bugging the leading investigator at the time. He teams up with a TV production company to give the investigation another shot. As a
+base requirement for funding, Kristoffer Scavenius was tasked with making a probable case that the murderer was in fact still alive. After initial setbacks, Kristoffer was eventually able to make the
+case that Rasmus Kierkegaard Kristiansen was still alive and well, living in Sao Paolo, Brazil.
+The talk will discuss some of the OSINT approaches used in this investigation.
+
+**Speaker bio**
+Kristoffer Scavenius has worked in OSINT since 2013 and has held positions as researcher/programmer in both government and the private sector.
+
+### Tuesday, January 23, 2024 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/297956007/)]
+
+#### Navigating the AI Labyrinth: Ethics, Security, and Best Practices
+
+This talk offers a comprehensive exploration of Artificial Intelligence (AI) from its historical evolution to the latest developments in AI security and ethics. Key topics include:
+
+- A Brief History of AI: A snapshot of the pivotal milestones in AI development.
+- AI and Ethics: Understanding AI's business impact, ethical guidelines, best practices, and risk mitigation strategies.
+- Robustness & Reliability of AI Code Generation: Addressing common misuse patterns and reliability metrics in AI systems.
+- Artificial Intelligence Security Introduction: Analyzing historical AI failures to draw lessons and improve future applications.
+- OWASP Top Ten for Large Language Models (LLMs): A deep dive into security considerations specific to LLMs, ranging from prompt injection to model theft.
+- Threat Modeling AI Systems: Outlining methodologies to assess and mitigate AI-related threats.
+- Hugging Face Open Source AI Tools: Exploring the utility and application of these tools in AI research.
+- Differential Privacy and AI: Discussing the principles of differential privacy in the context of AI.
+- NIST AI Risk Framework: An overview of NIST's guidelines for AI risk management.
+- EU AI Act: Analysis and impact on AI development and use.
+
+The talk aims to provide attendees with a nuanced understanding of AI's ethical implications, security challenges, and practical approaches for secure and responsible AI deployment.
+
+#### AppSec Training
+
+In the rapidly evolving realm of web development and application security, the OWASP Top 10 remains a cornerstone document, acting as a beacon for developers and security professionals alike. Reflecting a broad-based consensus, it spotlights the most critical security risks threatening web applications, thereby shaping the frontier of secure coding techniques.
+With an ever-increasing emphasis on web-based interactions, the significance of a deep understanding of these risks is paramount. As developers etch lines of code giving life to web applications, a firm grasp of secure coding practices becomes not merely beneficial, but essential.
+This immersive and engaging presentation seeks to equip attendees with a comprehensive understanding of the OWASP Top Ten 2022 release, intending to empower developers with the knowledge necessary to author secure, resilient software. As we navigate through this labyrinth, we shall focus on in-depth discussions around:
+
+- A01:2021-Broken Access Control
+- A02:2021-Cryptographic Failure
+- A03:2021-Injection
+- A04:2021-Insecure Design
+- A05:2021-Security Misconfiguration
+- A06:2021-Vulnerable and Outdated Components
+- A07:2021-Identification and Authentication Failures
+- A08:2021-Software and Data Integrity Failures
+- A09:2021-Security Logging and Monitoring Failure
+- A10:2021-Server-Side Request Forgery
+
+### Thursday, December 5, 2023 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/297344292/)]
+
+A night of Backdoors & Breaches with a virtual touch of John Strand
+
+John Strand from Black Hills Information Security (BHIS) will join us online and tell us about their incident response game; Backdoors & Breaches, why you should use it and how it can help you raise awareness among your peers
+
+Afterwards Jon Bevers (also from BHIS) will show us how to play Backdoors & Breaches. Jon will also join us online.
+
+Jon is one of BHIS' European community ambassadors and travels Europe from his home in Krakow, Poland. Jon was in Copenhagen recently as part of BSides København where he also had the opportunity to talk to you about Backboors & Breaches and he might even have given you a deck already. If not, fear not as we will have plenty of decks to share with you (and keep).
+
+After the talk and demo from John and Jon it's time for pizza, drinks and the opportunity to get some hands on experience and try to game for yourself.
+
+We hope to see you there!
+
 ### Thursday, September 21, 2023 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/296032478/)]
 
 A night of Blackteaming, Supply Chain Attacks and DEFCON CTF
