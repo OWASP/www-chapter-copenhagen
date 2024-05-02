@@ -13,24 +13,41 @@ postal-code:
 ---
 The Copenhagen local chapter organizes quarterly events to promote OWASP and information security in general.
 
-We (re)started from the OWASP-Denmark local chapter with an initial event on October 25th, 2018.
-
 ## Events
 In this page we keep track of all past events that we organized, and is rarely updated. Go to [[meetup](https://www.meetup.com/OWASP-Copenhagen-Chapter/)] to check the latest events and subscribe to get the latest updates from our chapter.
 
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### Thursday, May 23, 2024
+
+A night of honeypots and information flow security
+
+#### Can we outsmart the adversaries? (Effective) Cyber Deception with Honeypots 
+
+In today's ever-evolving cyber threat landscape, traditional defence mechanisms often struggle to keep pace with attacker ingenuity. Cyber deception offers a proactive approach, utilizing traps and deceiving tactics to lure attackers into controlled environments. Honeypots are one of the prominent techniques of cyber deception that act as decoy systems for capturing attacks and analyzing the adversary strategy. They provide an early detection mechanism as well as a method for learning how adversaries work and think. However, over the past years, several researchers have shown methods for fingerprinting honeypots. This significantly decreases the value of a honeypot; if an attacker can recognize the existence of such a system, they can evade it. This talk delves into the world of cyber deception, focusing on honeypots, their efficacy, and some fingerprinting techniques from my research. We'll explore how honeypots function and the contributions from The Honeynet Project, a non-profit, open-source community. 
+
+**Speaker**: [[Shreyas Srinivas](https://www.linkedin.com/in/shreyas-srinivasa-ph-d-47038b13/overlay/contact-info/)] is Cyber Security Specialist at TERMA Group, Co-founder of Selene CTI and previously Security Researcher at Aalborg University. He is contributor to the [Honeynet project](https://www.honeynet.org/), a non-profit dedicated to investigating the latest attacks and developing open source security tools to improve Internet security.
+
+#### Information-Flow Security for the Working Software Engineer
+
+How does information flow through your software? Awareness of this gives you a new perspective when writing software with security requirements; it helps you avoid introducing information leaks into software, and gives you a conceptual framework for reasoning about software security in general.
+
+In this talk, you will meet concepts like information leak, sources & sinks, dependencies, side–channels, and flow policies. You will learn to identify information flows in software, to express application–specific security requirements as flow policies, and to implement software that adheres to said flow policies.
+
+Want to try this out? Then bring a laptop; right after the talks, I will organize a little activity where you can tinker with `ifc-ts` - my TypeScript library for expressing flow policies. In `ifc-ts`, flow policy checks are reduced to checks performed by TypeScript's type checker. Thus, if your code type-checks, then your code is guaranteed to adhere to the flow policies expressed therein.
+
+**Speaker:**
+[[Willard Rafnsson](https://www.willardthor.com/)] is Associate Professor at the IT University of Copenhagen (ITU). He is member of the Center for Information Security and Trust (CISAT), as well as the Programming, Logic and Semantics (PLS) and Software Quality Research (SQUARE) groups.
+
 ### Tuesday, April 9, 2024 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/300007686/)]
 
 #### OSINTer
-**Synopsis**
 OSINTer is a new, digital platform tailored towards breezing through the complexities involved in extracting strategic cyber threat intelligence from news about cyber threats. Designed to streamline the traditionally laborious process of manually tracing and compiling data, OSINTer offers an automated, efficient means of identification, collection, and tracking of the ever moving cyberthreat landscape. At this workshop we will delve into the platform's journey from a spark of an idea to a robust platform, currently serving 30.000 monthly users, and go over how you can integrate it into your daily work, helping you stay on top of the constant inflow of information.
 
 **Speaker bio**
 Bertram Madsen and David Clayton are co-conspirators in the realm of cybersecurity, with each specializing in different facets of the industry to combat digital threats effectively. Bertram, a proficient full-stack software developer, emphasizes open-source development and community collaboration, manifesting in the creation of a range of cybersecurity solutions. Most notably, he's responsible for the development of OSINTer, a digital platform designed to ease collection of strategic cyber threat intelligence (CTI), and in collaboration with David, they are attempting to rethink how we do CTI. David is an established leader within Denmark's cybersecurity landscape, with a breadth of experience spanning various critical infrastructure sectors, financial security and strategic leadership roles. He's renowned for championing the SagaLabs concept, gaining TF-CSIRT certification for his team, and providing exceptional insights as one of only two official SIM3 auditors in Denmark.
 
 #### Tracking down the killer
-**Synopsis**
 In the mid 1990’s Rasmus Kierkegaard Kristiansen – suspected of killing and dismembering a business partner I Portugal – managed to escape and hide from authorities. After a longer period of intense investigation, the trail was considered cold.
 In 2018, 25 years after the murder, the unsolved case was still bugging the leading investigator at the time. He teams up with a TV production company to give the investigation another shot. As a
 base requirement for funding, Kristoffer Scavenius was tasked with making a probable case that the murderer was in fact still alive. After initial setbacks, Kristoffer was eventually able to make the
