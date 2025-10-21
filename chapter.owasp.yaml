@@ -1,0 +1,24 @@
+leaders:
+  - name: Alessandro Bruni
+    email: alessandro.bruni@owasp.org
+    github: hoheinzollern
+  - name: Andrada Son
+    email: andrada.son@owasp.org
+location:
+  country: Denmark
+  country_code: DK
+  region: Capital Region
+  city: Copenhagen
+  latitude: 55.6867243
+  longitude: 12.5700724
+meetup_group: OWASP-Copenhagen-Chapter
+name: OWASP Copenhagen
+repositories:
+  - name: www-chapter-copenhagen
+    url: https://github.com/OWASP/www-chapter-copenhagen
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-copenhagen
