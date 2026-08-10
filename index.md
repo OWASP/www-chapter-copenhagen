@@ -18,7 +18,72 @@ In this page we keep track of all past events that we organized, and is rarely u
 
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
-### Thursday, May 23, 2024
+### Thursday, December 11, 2025 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/312180431/)]
+
+A night of malware and monsters
+
+When 600 apartment buildings in Ukraine lost heating during a harsh winter, the culprit wasn't missiles – it was malware. FrostyGoop, a lesser-known but exploited OT threat, was designed to disrupt industrial control systems using ModbusTCP.
+
+#### Unpacking FrostyGoop: OT Malware Dissection & Detection
+
+A dissection of the FrostyGoop OT malware and of how such threats can be detected in industrial control system environments.
+
+**Speaker**: Claudiu Chelaru is a security consultant at Mnemonic, focusing on attack detection capabilities and purple teaming within ICS/OT. He has a pentester background, and has worked extensively across transportation, manufacturing and energy sectors.
+
+#### Malware & Monsters Workshop
+
+Malware & Monsters is an innovative security training platform that combines collaborative storytelling with creature-collection mechanics to create engaging, practical incident response training. Attendees played through a session, with a d20 in hand and either a phone (players) or a laptop (Incident Masters).
+
+**Speaker**: Klaus Agnoletti has been an all-round infosec professional since 2004. He co-founded BSides København in 2019. Recently he started out as an infosec freelancer focusing on storytelling in marketing, employer branding, game-based learning or wherever new ideas bring him.
+
+### Thursday, October 9, 2025 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/311153967/)]
+
+A night of AI hacking
+
+#### Hacking LLMs
+
+We started with an in-depth talk on vulnerabilities in Large Language Models (LLMs) and AI-powered systems, exploring topics like prompt injection, data leakage, model manipulation, and real-world attack scenarios inspired by cases from Microsoft and others. Following the talk, attendees applied what they learned in a hands-on CTF with AI-focused challenges, ranging from bypassing chatbot safeguards to exploiting misconfigured AI systems.
+
+**Speaker**: Kevin Joensen from Baldur Security, who created the LLM hacking challenge our community was invited to break for a chance to win tickets to BSides Copenhagen, and who built a brand new LLM CTF just for this event.
+
+### Thursday, March 27, 2025 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/306662210/)]
+
+A night of board games
+
+We occupied Scroll Bar at ITU with a wide range of cyber security themed games, with people on hand to help everyone get started — including the actual creators of Hackador and CyberQuest.
+
+- **Hackador** is a board game for newcomers in security that provides insights and reflections from a simulated hacker attack in your fictitious company.
+- **CyberQuest** is a board game where players are tasked to run security operations all the way from assessing risks, mitigating and withstanding hacker attacks. You get resources assigned based on how well you assess the risks you face, but are still forced to make difficult prioritizations - just like in real life. This game is only available in Danish.
+- **Backdoors & Breaches** from our friends at Black Hills Infosec, a technical incident response training card game - fun for everybody.
+- **OWASP Cornucopia** is a threat modelling tool in the shape of a card game. Read more about it [here](https://medium.com/sydseter/owasp-cornucopia-2-0-8460ebbd9a45).
+
+### Tuesday, December 10, 2024 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/304647432/)]
+
+A night of CTF with Secure Code Warrior
+
+#### Viking-themed Capture The Flag
+
+A Viking-themed Capture The Flag tournament sponsored by Secure Code Warrior. Attendees gathered their crew, tested their skills and competed for prizes, with pizza and drinks provided by our sponsor. Whether a seasoned pro or new to the world of CTFs, everyone was welcome — best Viking attire encouraged, laptop required.
+
+### Thursday, September 26, 2024 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/303328101/)]
+
+A night of OpenAPI security and internet device search — the first meetup after the (long) summer break.
+
+#### A Deep Dive into OpenAPI Security
+
+This presentation shared key findings from analyzing the OpenAPI standard and 100,000 publicly available API documentations. The aim of this research is to uncover vulnerabilities that can be detected by analyzing the documentation, and how testing techniques can be improved based on these results. Attendees gained insights into how these discoveries can enhance API pentesting methodologies, streamline vulnerability detection, and improve overall security practices.
+
+**Speaker**: Andrei Agape is a Pentester and Offensive Security Specialist with a passion for web and API research, as he likes finding ingenious ways to chain and exploit vulnerabilities that otherwise seem benign.
+
+#### Untangling the Web: Making Sense of (Traffic from) Internet Appliances at Scale
+
+This talk covered the importance of being able to understand and quickly make sense of internet traffic as a crucial first step in identifying, investigating, and preventing many web-based attacks. It introduced powerful and freely available tools and techniques to make sense of large amounts of IP addresses, domain names, and other web artifacts in bulk, focusing on Webscout, an internet device search and enrichment engine made in Denmark. The talk also showed how Webscout can be used to passively and stealthily uncover web attack surfaces on a large scale, benefiting both application defense and offensive bug bounty hunting.
+
+After the talk, members of the audience were equipped to make informed decisions about internet traffic against their internet-facing web applications, and to answer key forensic questions such as: is an IP address used by a popular VPN provider? Is it part of the Tor network? Does it act as a proxy or internet-wide scanner/crawler? Has it been reported anywhere else on the web, such as in popular threat feeds, forums, or MISPs?
+
+**Speaker**: Jonathan Andersen is the co-founder and CEO of [Webscout.io](https://webscout.io/), a data platform focused on providing intelligence on internet devices and services at scale. He has a strong interest in cyber threat intelligence and has been working as an analyst at the Danish Ministry of Defense since 2019.
+
+### Thursday, May 23, 2024 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/300776505/)]
 
 A night of honeypots and information flow security
 
