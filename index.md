@@ -18,6 +18,24 @@ In this page we keep track of all past events that we organized, and is rarely u
 
 If interested in giving a talk, please send a message to [Alessandro Bruni](mailto:Alessandro.Bruni@owasp.org).
 
+### Tuesday, September 29, 2026 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/316428023/)]
+
+KBHSEC × OWASP Community Night
+
+A night of security, knowledge sharing and good conversations, bringing together the KBHSEC and OWASP Copenhagen communities. The evening explored how AI is changing both software development and security testing, with two talks looking at different sides of the challenge.
+
+#### Guardians of Your Security: A Simple Guide to Security in the Agentic SDLC
+
+AI coding agents are changing how software is built – but what does that mean for security? This talk explored how coding agents can become security co-pilots, looking at practical ways to give them the right context, guardrails and feedback loops to help enforce security throughout the development process.
+
+**Speaker**: Ernest Bartosevic is a Solutions Engineer at Semgrep.
+
+#### Testing API Business Logic With AI Agents: What We Got Wrong First
+
+Using AI agents to test complex enterprise APIs sounds straightforward until you encounter the reality of business logic and domain-specific behaviour. This talk shared lessons from building AI-powered security testing, including challenges around IDOR detection, deterministic testing and understanding domain context.
+
+**Speaker**: Yacine Souam is an R&D Engineer at Escape.
+
 ### Thursday, December 11, 2025 [[meetup](https://www.meetup.com/owasp-copenhagen-chapter/events/312180431/)]
 
 A night of malware and monsters
